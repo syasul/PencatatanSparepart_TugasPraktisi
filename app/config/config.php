@@ -1,6 +1,6 @@
 <?php
 
-define('BASEURL', 'http://localhost/all.co/public');
+define('BASEURL', 'http://localhost/pencatatan/public');
 
 // DB
 define('DB_HOST', 'localhost');
